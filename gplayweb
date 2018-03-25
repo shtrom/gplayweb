@@ -1,4 +1,4 @@
-#! /usr/bin/python2
+#! /usr/bin/env python2
 # -*- coding: utf-8 -*-
 import sys, os, traceback, ConfigParser, argparse, multiprocessing
 import tornado.ioloop, tornado.web
